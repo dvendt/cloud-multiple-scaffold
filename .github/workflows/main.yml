@@ -1,4 +1,4 @@
-name: Azure Python 3.10
+name: Azure Python 3.10 (main.yml)
 on: [push]
 jobs:
   build:
